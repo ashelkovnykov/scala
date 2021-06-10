@@ -1,0 +1,4 @@
+rootProject.name = "scala-example"
+
+include 'lang'
+include 'tips'
